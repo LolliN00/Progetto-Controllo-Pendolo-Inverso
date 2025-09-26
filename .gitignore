@@ -1,0 +1,40 @@
+# Compiled C/C++ files
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# MATLAB files
+*.asv
+*.autosave
+slprj/
+*.slxc
+
+# Output data files
+output_savings/*.txt
+output_savings/*.dat
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log files
+*.log
+
+# Binary executables
+pendulum_control
+main
